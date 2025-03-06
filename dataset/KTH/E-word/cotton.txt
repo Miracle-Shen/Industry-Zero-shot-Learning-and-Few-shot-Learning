@@ -1,0 +1,23 @@
+Lattice
+grid
+inerratic
+granular
+strip 
+split 
+texture 
+smooth 
+blurred 
+wrinkle
+bounded
+light-resistant 
+plain
+surface 
+soft 
+no impurities 
+interwoven
+small
+density 
+uniform 
+longitudinal 
+transverse 
+cloth 

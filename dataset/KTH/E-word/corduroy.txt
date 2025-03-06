@@ -1,0 +1,16 @@
+strip
+inerratic
+symmetrical
+longitudinal 
+uniform
+texture 
+cutting
+clear
+bounded
+glossy
+soft
+thick
+longitudinal
+plush 
+velvet
+field

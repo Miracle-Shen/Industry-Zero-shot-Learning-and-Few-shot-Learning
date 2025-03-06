@@ -1,0 +1,17 @@
+Grain 
+sand 
+fuzzy
+density 
+large 
+uniform 
+granular 
+rough 
+sand 
+hard 
+concave-convex 
+mixed 
+rugged 
+cement 
+rough 
+matte
+wave

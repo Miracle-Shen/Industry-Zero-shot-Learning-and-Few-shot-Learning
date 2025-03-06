@@ -1,0 +1,21 @@
+colorful
+blue
+yellow
+Strip 
+Cavity 
+Raised 
+Pattern 
+Gas 
+Inclusion 
+Pore 
+Dome 
+Dot
+Extrusion 
+Concave 
+line 
+random distribution 
+Round 
+Transverse 
+Longitudinal 
+Single
+Drop-shaped 

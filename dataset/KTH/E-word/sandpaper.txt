@@ -1,0 +1,15 @@
+granular 
+irregular
+unbounded 
+fine 
+texture 
+gap 
+small 
+blur 
+density 
+large 
+uniform 
+rough
+sand 
+abrasive 
+paper 
